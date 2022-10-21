@@ -5,6 +5,11 @@
 /.pnp
 .pnp.js
 
+_cacache
+_libvips
+_locks
+_prebuilds
+
 # testing
 /coverage
 
